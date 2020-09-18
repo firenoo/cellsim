@@ -1,0 +1,24 @@
+#Batch files for compiling
+*.bat
+*.ps1
+
+#Libs
+/lib/**
+
+#Production
+/production/*
+
+#Test
+/firenoo/test
+test.bin
+testcmds.txt
+/.vscode/*
+#Class files
+*.class
+
+#Backups
+*~
+
+#Logs/Testing
+log.txt
+/test/*
